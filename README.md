@@ -5,6 +5,7 @@ Initial features to work with:
 ### Feature: Create JSON
 
 * Assigned Edvin & Tsoler
+* Branch: feature-create-json
 
 This feature can be completed by two developers, one creating each JSON-file.
 
@@ -32,5 +33,6 @@ This feature can be completed by two developers, one creating each JSON-file.
   ### Feature: Add more info to index.html
 
   * Daniel
+  * Branch: feature-add-info-index
 
   Rigth now we only have a H1 in index.html and a paragraph explaining that this will be a system listing pets and pet owners and relations between them.
